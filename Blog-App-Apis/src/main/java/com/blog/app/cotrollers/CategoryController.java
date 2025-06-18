@@ -35,21 +35,6 @@ public class CategoryController {
 
 	}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
 //	update
 
 	@PutMapping("/update/{categoryId}")
